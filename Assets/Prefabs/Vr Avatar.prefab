@@ -186,7 +186,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <Player>k__BackingField: {fileID: 8443972193566691254}
   _bot: {fileID: 7518339826602436106}
-  _offsetBetweenHeadAndHeadset: 0.1
+  _offsetBetweenHeadAndHeadset: 0.15
   _footRotationOffsetLowerBorder: 0
   _footRotationOffsetUpperBorder: 30
   _deltaVelocityThreshold: 0.15
