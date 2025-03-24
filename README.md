@@ -5,7 +5,9 @@
 > This works only with Humanoid Rig
 
 ## **Result**
-The character model and animations were taken from <a href="https://www.mixamo.com/#/">**mixamo**</a> 
+Click to open in YouTube
+
+[![jelewow](https://img.youtube.com/vi/mGLk2uvsFUY/0.jpg)](https://www.youtube.com/watch?v=mGLk2uvsFUY "Vr Avatar Demo")
 
 ## **About**
 This demo project implements a VR avatar using the built-in Unity IK system, without using any third-party solutions.
@@ -13,6 +15,8 @@ In this implementation there is no binding to a specific VR device and should wo
 
 ## **Demo project information**
 Setup of the project is done with the help of VR Core template with Unity 6000.0.33f1. The project mechanics were tested on Pico 4 device using <a href="https://developer.picoxr.com/document/unity-openxr/">**PICO Unity OpenXR SDK**</a> (version 1.3.0)
+
+The character model and animations were taken from <a href="https://www.mixamo.com/#/">**mixamo**</a>
 
 ## **Tips for improving animations**
 If you have something wrong with your arms, legs, or other body parts, you should configure avatar in unity. My hand configuration in this project (left and right are identical)
